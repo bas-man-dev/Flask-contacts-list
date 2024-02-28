@@ -1,6 +1,7 @@
 # Contacts List Project
 
 A project using python and react/js to create a contact list.
+React was imported using vite@latest
 
 ## Initial Version
 
